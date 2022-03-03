@@ -11,8 +11,10 @@ These are the notes and exercises for the RMIT University Digital Writing Lab.
 
 - [Lillian](https://github.com/lily-brewis)
 - [Xavier](https://github.com/XavierGau)
+- [Ruby](https://github.com/rubyhillsmith)
 - [Lauren](https://github.com/LHobday)
 - [Darcy](https://github.com/DarcyMilne)
+- [Zoe](https://github.com/z0eka)
 - [Timothy](https://github.com/timloveday1)
 - [Ysabelle](https://github.com/ymachucarmit)
 - [Jay](https://github.com/Jayrrm)
