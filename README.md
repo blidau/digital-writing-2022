@@ -65,6 +65,26 @@ Look at the works in the [Electronic Literature Collection](https://collection.e
 
 ## Week 2
 
+We answered the questions:
+
+- How is electronic literature different from print literature?
+- What are some of the qualities of electronic literature?
+
+### Individual Case Studies
+
+- Lillian: JR Carpenter's [The Cape](https://collection.eliterature.org/1/works/carpenter__the_cape.html)
+- Ruby: Kenneth Goldsmith's [Soliloquy](https://collection.eliterature.org/1/works/goldsmith__soliloquy.html)
+- Lauren: bpNichol's [First Screening](https://collection.eliterature.org/3/work.html?work=first-screening)
+- Darcy: Porpentine's [With Those We Love Alive](https://collection.eliterature.org/3/work.html?work=with-those-we-love-alive)
+- Zoe: Jenny Hedley's [A Compendium of Failed Relationships](http://cordite.org.au/poetry/game/a-compendium-of-failed-relationships/)
+- Timothy: Cecile Richard's [Topography](https://haraiva.itch.io/topography)
+- Ysabelle: Deena Larsen's [Marble Springs](https://collection.eliterature.org/3/work.html?work=marble-springs)
+- Juliette: Judy Malloy's [Uncle Rodger](https://collection.eliterature.org/3/work.html?work=uncle-roger)
+- Gerard: John David Zuern's [ask me for the moon](https://collection.eliterature.org/3/work.html?work=ask-me-for-the-moon)
+- Ewen: Justin Katko's [Up Against the Screen Mother Fuckers](https://collection.eliterature.org/2/works/katko_up_against_the_screen.html)
+- Kathryn: Brian Kim Stefans [The Dreamlife of Letters](https://collection.eliterature.org/1/works/stefans__the_dreamlife_of_letters/image_16.htm)
+- Maddy: Dietrich Squinkifer's [Quing's Quest VII](https://collection.eliterature.org/3/work.html?work=quings-quest-vii)
+
 ### Week 2 Resources
 
 - [Week 2 slides](https://slides.com/benjaminlaird/digital-writing-week-2-2022)
