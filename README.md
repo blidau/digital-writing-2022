@@ -20,6 +20,7 @@ These are the notes and exercises for the RMIT University Digital Writing Lab.
 - [Jay](https://github.com/Jayrrm)
 - [Madeleine](https://github.com/madeleinemay)
 - [Julianna](https://github.com/jjp96j)
+- [Charles](https://github.com/Charles-s3787634)
 - [Juliette](https://github.com/juliettesalom)
 - [Ged](https://github.com/GerardStarling)
 - [Ewen](https://github.com/Ewen-GitHub)
