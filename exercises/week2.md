@@ -11,7 +11,7 @@ Edit the `exercises.md` page in your digital writing folio and add the following
 
 ### Remix "To Make a Dadaist Poem"
 
-- Create a Glitch account
+- Create a Glitch account by signing up with your GitHub account
 - Link your GitHub account
 - Select "Remix on Glitch" on ["To Make a Dadaist Poem"](https://to-make-a-dadaist-poem.glitch.me)
 - Create a repository in GitHub for the remix

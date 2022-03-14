@@ -65,10 +65,39 @@ Look at the works in the [Electronic Literature Collection](https://collection.e
 
 ## Week 2
 
-We answered the questions:
+Both classes were streamed with Collaborate Ultra and the recordings are avaiable on Canvas. If you missed the class make sure you watch the recordings and go through the [slides and exercises](#week-2-resources).
+
+We started off by discussing the Digital Writing Folio and the Individual Case Study. Make sure you're keeping your folio up to date. If you're having any issues with it come and see me in class as it is better to get it right early rather than leaving it until later in the semester.
+
+For the Individual Case Study, you should have already picked the work you want to present on. If you have not, you need to select a work from the Electronic Literature Collection and send your selection to me. Make sure not to select [a work that has already been chosen](#individual-case-studies).
+
+In the class, we answered the questions:
 
 - How is electronic literature different from print literature?
 - What are some of the qualities of electronic literature?
+
+The answers to these questions should be recorded in your folio. For your Individual Case Study you should apply the answers to these questions to the work that you have chosen and ensure you analyse it as a work of electronic literature (recognising the literary qualities and the qualities that the digital brings).
+
+We then discussed how algorithms and constraints have been used in print literature and digital poetry. We looked at:
+
+- Tristan Tzara, [To Make a Dadaist Poem (1920)](https://www.writing.upenn.edu/~afilreis/88v/tzara.html)
+- Oulipo (1960–), N+7, Lipograms
+- John Cage, Mesostics
+- Jas Duke, "Fortran Two Love Song" (1966)
+- John Tranter, Different Hands (1998)
+- Google as a Method
+- N-grams, [jGnoetry](http://www.eddeaddad.net/jGnoetry/)
+- [InferKit](https://app.inferkit.com/demo)
+
+Next we used Tristan Tzara's To Make a Dadaist Poem as a method by remixing that process on Glitch. The instructions are with the exercises but as it is initially a little complicated, watch the class video on Canvas for the specific instructions.
+
+Finally, everyone was given a remix of Taroko Gorge and asked to answer the following questions and record the answers in their folio:
+
+- What aspects of the remix are the same?
+- What aspects of the remix are different?
+- Is the remix successful (why or why not)?
+
+If you missed the class, select any of the remixes and try and answer those questions.
 
 ### Individual Case Studies
 
@@ -90,3 +119,11 @@ We answered the questions:
 
 - [Week 2 slides](https://slides.com/benjaminlaird/digital-writing-week-2-2022)
 - [Week 2 exercises](exercises/week2.md)
+
+## Week 3
+
+No class this week due to the Labour Day public holiday but you should be working on your Individual Case Study which is due week 4
+
+## Before Week 4
+
+Prepare your Individual Case Study that is due and should be presented during the 11:30 class.
