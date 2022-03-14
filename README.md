@@ -79,6 +79,7 @@ We answered the questions:
 - Zoe: Jenny Hedley's [A Compendium of Failed Relationships](http://cordite.org.au/poetry/game/a-compendium-of-failed-relationships/)
 - Timothy: Cecile Richard's [Topography](https://haraiva.itch.io/topography)
 - Ysabelle: Deena Larsen's [Marble Springs](https://collection.eliterature.org/3/work.html?work=marble-springs)
+- Jay: Micha Cardenas's [Redshift and Portalmetal](https://collection.eliterature.org/3/work.html?work=redshift-and-portalmetal)
 - Juliette: Judy Malloy's [Uncle Rodger](https://collection.eliterature.org/3/work.html?work=uncle-roger)
 - Gerard: John David Zuern's [ask me for the moon](https://collection.eliterature.org/3/work.html?work=ask-me-for-the-moon)
 - Ewen: Justin Katko's [Up Against the Screen Mother Fuckers](https://collection.eliterature.org/2/works/katko_up_against_the_screen.html)
