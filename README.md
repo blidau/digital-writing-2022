@@ -112,7 +112,7 @@ If you missed the class, select any of the remixes and try and answer those ques
 - Julianna: Alan Trotter's [The Brain Drawing the Bullet](https://www.collection.eliterature.org/3/work.html?work=the-brain-drawing-the-bullet)
 - Charles: Rob Wittig's [The Fall of the Site of Marsha](https://collection.eliterature.org/1/works/wittig__the_fall_of_the_site_of_marsha.html)
 - Juliette: Judy Malloy's [Uncle Roger](https://collection.eliterature.org/3/work.html?work=uncle-roger)
-- Gerard: John David Zuern's [ask me for the moon](https://collection.eliterature.org/3/work.html?work=ask-me-for-the-moon)
+- Gerard: John David Zuern's [Ask Me for the Moon](https://collection.eliterature.org/3/work.html?work=ask-me-for-the-moon)
 - Ewen: Justin Katko's [Up Against the Screen Mother Fuckers](https://collection.eliterature.org/2/works/katko_up_against_the_screen.html)
 - Kathryn: Brian Kim Stefans [The Dreamlife of Letters](https://collection.eliterature.org/1/works/stefans__the_dreamlife_of_letters/image_16.htm)
 - Maddy: Dietrich Squinkifer's [Quing's Quest VII](https://collection.eliterature.org/3/work.html?work=quings-quest-vii)
