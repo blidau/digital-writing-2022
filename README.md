@@ -108,6 +108,7 @@ If you missed the class, select any of the remixes and try and answer those ques
 - Timothy: Cecile Richard's [Topography](https://haraiva.itch.io/topography)
 - Ysabelle: Deena Larsen's [Marble Springs](https://collection.eliterature.org/3/work.html?work=marble-springs)
 - Jay: Micha Cardenas's [Redshift and Portalmetal](https://collection.eliterature.org/3/work.html?work=redshift-and-portalmetal)
+- Julianna: Alan Trotter's [The Brain Drawing the Bullet](https://www.collection.eliterature.org/3/work.html?work=the-brain-drawing-the-bullet)
 - Juliette: Judy Malloy's [Uncle Rodger](https://collection.eliterature.org/3/work.html?work=uncle-roger)
 - Gerard: John David Zuern's [ask me for the moon](https://collection.eliterature.org/3/work.html?work=ask-me-for-the-moon)
 - Ewen: Justin Katko's [Up Against the Screen Mother Fuckers](https://collection.eliterature.org/2/works/katko_up_against_the_screen.html)
