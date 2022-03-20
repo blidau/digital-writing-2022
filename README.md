@@ -132,3 +132,10 @@ No class this week due to the Labour Day public holiday but you should be workin
 ## Before Week 4
 
 Prepare your Individual Case Study that is due and should be presented during the 11:30 class.
+
+## Week 4
+
+### Week 4 Resources
+
+- [Week 4 slides](https://slides.com/benjaminlaird/digital-writing-week-4-2022)
+- [Week 4 exercises](exercises/week4.md)
