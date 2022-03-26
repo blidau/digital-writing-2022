@@ -135,7 +135,21 @@ Prepare your Individual Case Study that is due and should be presented during th
 
 ## Week 4
 
+This week was mostly taken up with presentations. At the end of the second class we remixed "We Walk to You" and this part of the class was recorded with Collaborate Ultra. If you missed the class watch the video and try and create your own remix.
 ### Week 4 Resources
 
 - [Week 4 slides](https://slides.com/benjaminlaird/digital-writing-week-4-2022)
 - [Week 4 exercises](exercises/week4.md)
+
+## Before Week 5
+
+Make sure to submit your slides from your presentation to Canvas.
+
+## Week 5
+
+### Week 5 Resources
+
+- [Week 5 slides](https://slides.com/benjaminlaird/digital-writing-week-5-2022)
+- [Week 5 exercises](exercises/week5.md)
+- [Twine Cookbook](https://twinery.org/cookbook/)
+- [Harlowe Reference](https://twine2.neocities.org)
