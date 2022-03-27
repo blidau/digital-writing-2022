@@ -18,6 +18,7 @@ These are the notes and exercises for the RMIT University Digital Writing Lab.
 - [Timothy](https://github.com/timloveday1)
 - [Ysabelle](https://github.com/ymachucarmit)
 - [Jay](https://github.com/Jayrrm)
+- [Chantelle](https://github.com/ChantelleMcColl)
 - [Madeleine](https://github.com/madeleinemay)
 - [Julianna](https://github.com/jjp96j)
 - [Charles](https://github.com/Charles-s3787634)
