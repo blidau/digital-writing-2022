@@ -117,7 +117,7 @@ If you missed the class, select any of the remixes and try and answer those ques
 - Juliette: Judy Malloy's [Uncle Roger](https://collection.eliterature.org/3/work.html?work=uncle-roger)
 - Gerard: John David Zuern's [Ask Me for the Moon](https://collection.eliterature.org/3/work.html?work=ask-me-for-the-moon)
 - Ewen: Justin Katko's [Up Against the Screen Mother Fuckers](https://collection.eliterature.org/2/works/katko_up_against_the_screen.html)
-- Kathryn: Brian Kim Stefans [The Dreamlife of Letters](https://collection.eliterature.org/1/works/stefans__the_dreamlife_of_letters/image_16.htm)
+- Kathryn: Brian Kim Stefans [The Dreamlife of Letters](https://collection.eliterature.org/1/works/stefans__the_dreamlife_of_letters.html)
 - Maddy: Dietrich Squinkifer's [Quing's Quest VII](https://collection.eliterature.org/3/work.html?work=quings-quest-vii)
 
 ### Week 2 Resources
