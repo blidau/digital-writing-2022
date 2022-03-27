@@ -152,5 +152,12 @@ Make sure to submit your slides from your presentation to Canvas.
 
 - [Week 5 slides](https://slides.com/benjaminlaird/digital-writing-week-5-2022)
 - [Week 5 exercises](exercises/week5.md)
+
+#### Twine Resources
+
 - [Twine Cookbook](https://twinery.org/cookbook/)
-- [Harlowe Reference](https://twine2.neocities.org)
+- [Harlowe reference](https://twine2.neocities.org)
+
+### Week 5 Further Reading
+
+- [Depression Quest](http://www.depressionquest.com/)
