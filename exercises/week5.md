@@ -27,6 +27,13 @@
 
 Follow the instructions on [GitHub Pages](https://pages.github.com/) to publish your folio as a themed website.
 
+## Writing Hypertext Fiction
+
+- How is it different from fiction
+- How is it different from games
+- How do you plan fiction?
+- How could you plan hypertext fiction?
+
 ## Create and Publish a Twine Story
 
 ### Prerequisites 
@@ -37,12 +44,13 @@ Install GitHub Desktop, open it and connect it to your GitHub account. Ideally u
 
 Make sure you have set up accounts on the following sites. Use your GitHub account to sign up to Netlify.
 
-* [GitHub account](https://github.com/)
-* [Netlify account](https://www.netlify.com/)
+- [GitHub account](https://github.com/)
+- [Netlify account](https://www.netlify.com/)
 
 #### Install
-* [GitHub Desktop](https://desktop.github.com/)
-* [Twine](https://twinery.org/)
+
+- [GitHub Desktop](https://desktop.github.com/)
+- [Twine](https://twinery.org/)
 
 ### Set Up a Local Repository
 
