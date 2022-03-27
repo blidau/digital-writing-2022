@@ -101,6 +101,7 @@ If you missed the class, select any of the remixes and try and answer those ques
 
 ### Individual Case Studies
 
+- Alison: Kerry Lawrynovicz's [Girls' Day Out](https://collection.eliterature.org/1/works/lawrynovicz__girls_day_out.html)
 - Lillian: JR Carpenter's [The Cape](https://collection.eliterature.org/1/works/carpenter__the_cape.html)
 - Xavier: Christine Love's [Digital: A Love Story](https://collection.eliterature.org/3/work.html?work=digital-a-love-story)
 - Ruby: Kenneth Goldsmith's [Soliloquy](https://collection.eliterature.org/1/works/goldsmith__soliloquy.html)
