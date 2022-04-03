@@ -162,3 +162,9 @@ Make sure to submit your slides from your presentation to Canvas.
 ### Week 5 Further Reading
 
 - [Depression Quest](http://www.depressionquest.com/)
+
+## Week 6
+
+### Week 6 Resources
+
+- [Week 6 slides](https://slides.com/benjaminlaird/digital-writing-week-6-2022)
