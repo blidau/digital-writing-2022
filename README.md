@@ -168,6 +168,7 @@ Make sure to submit your slides from your presentation to Canvas.
 ### Week 6 Resources
 
 - [Week 6 slides](https://slides.com/benjaminlaird/digital-writing-week-6-2022)
+- [Week 6 exercises](exercises/week6.md)
 
 ## Before Week 7
 

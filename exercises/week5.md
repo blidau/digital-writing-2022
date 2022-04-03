@@ -29,8 +29,8 @@ Follow the instructions on [GitHub Pages](https://pages.github.com/) to publish 
 
 ## Writing Hypertext Fiction
 
-- How is it different from fiction
-- How is it different from games
+- How is it different from fiction?
+- How is it different from games?
 - How do you plan fiction?
 - How could you plan hypertext fiction?
 
@@ -106,10 +106,7 @@ Your Twine story should now be published. Every time you make a change, save ove
 
 1. Create a `images` folder/directory in the same folder/directory as the `index.html`.
 2. Add the image for your Twine story to that folder/directory.
-3. In your Twine story add an image element with a relative reference to your image file. So if your image is called `example.jpg` add the following image element: `<img src="./img/example.jpg" alt="an example" />`.
-
-### Change the Story Styles
-
-1. In the bottom right of Twine click the title of your story to reveal the menu.
-2. Select "Edit Story Stylesheet".
-3. Add styles for the story, links and change the font.
+3. In your Twine story add an image element with a relative reference to your image file. So if your image is called `example.jpg` add the following image element:
+   ```html
+   <img class="story-image" src="./images/example.jpg" alt="an example" />
+   ```
