@@ -168,3 +168,7 @@ Make sure to submit your slides from your presentation to Canvas.
 ### Week 6 Resources
 
 - [Week 6 slides](https://slides.com/benjaminlaird/digital-writing-week-6-2022)
+
+## Before Week 7
+
+You should be working on your proposals for your major creative work which is due in class in week 7. Make sure to have emailed me your slides before the 11:30 class. Both classes will be taken up with the presentations.
