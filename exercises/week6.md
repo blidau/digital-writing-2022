@@ -39,9 +39,8 @@ tw-link:focus, tw-link:hover, tw-link:active {
 
 ### Create a Inform 7 Story
 
-1. Create a repository with on [GitHub](https://github.com/) (with an empty .gitignore)
-2. Add the repository locally with [GitHub Desktop](https://desktop.github.com/)
-3. Open the .gitignore with [Visual Studio Code](https://code.visualstudio.com/) and add the list shown
+1. Create a repository with on [GitHub](https://github.com/) with a `README.md` file
+2. Add a new file to the repostitory called `.gitignore` and add the following contents:
    ```
    # mac
    .DS_Store
@@ -55,8 +54,9 @@ tw-link:focus, tw-link:hover, tw-link:active {
    *.iFiction
    *.skein
    ```
-4. Commit the change
-5. Open Inform 7 and create a new project
+3. Commit the change
+4. Add the repository locally with [GitHub Desktop](https://desktop.github.com/)
+5. Open Inform 7 and create a new project and call it `Example`
 6. Save the project in your repository directory
 7. Add some text to the file leaving the name of the project and your name where Inform adds it. Make sure to include "Release along with an interpreter." on the line between your story title and the story text:
    ```
@@ -81,7 +81,7 @@ tw-link:focus, tw-link:hover, tw-link:active {
 4. Select "GitHub" as your Git provider
 5. Select the repository that you created for your Inform story
 6. Leave the branch to deploy as `main`
-7. For the "Publish directory" make this `Rooms.materials/Release`
+7. For the "Publish directory" make this `Example.materials/Release` if your Inform project is called `Example` otherwise this will need to be `Your project name.materials/Release`
 8. Click "Deploy site"
 
 ## Bitsy
