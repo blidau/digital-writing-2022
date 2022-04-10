@@ -149,10 +149,32 @@ Make sure to submit your slides from your presentation to Canvas.
 
 ## Week 5
 
+The class recording is on Collaborate Ultra, but there might be some issues with the screen sharing so if there is anything missed in the video which isn't in the slides or exercises let me know, and I'll update the supporting documentation.
+
+We started the class by going over HTML, CSS and JavaScript. Each broadly can be thought of as addressing different aspects of how a webpage comes together:
+
+- Structural: HTML
+- Presentational: CSS
+- Behavioural: JavaScript
+
+We then moved on to [making a simple website](exercises/week5.md#create-a-simple-website). We skipped over [turning the folio into a GitHub pages site](exercises/week5.md#folio-as-a-github-pages-website), but feel free to do this if you want.
+
+We looked at literary print precursors to digital hypertext fiction, the technical precursors to hypertext fiction, and hypertext fiction itself. Following on we discussed the differences between digital hypertext fiction and fiction and between digital hypertext fiction and games. And we also talked about how we plan print fiction and how we might plan (or not plan) hypertext fiction.
+
+For the rest class we worked on [writing a short hypertext narrative with Twine](exercises/week5.md#create-and-publish-a-twine-story), and we used GitHub and Netlify to publish the story so that it was publicly available.
+
 ### Week 5 Resources
 
 - [Week 5 slides](https://slides.com/benjaminlaird/digital-writing-week-5-2022)
 - [Week 5 exercises](exercises/week5.md)
+
+#### HTML, CSS and JavaScript Resources
+
+Mozilla Developer Resources:
+
+- [HTML (HyperText Markup Language)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS (Cascading Style Sheets)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 #### Twine Resources
 
@@ -165,6 +187,16 @@ Make sure to submit your slides from your presentation to Canvas.
 
 ## Week 6
 
+The class recording is on Collaborate Ultra, but there might be some issues with the screen sharing so if there is anything missed in the video which isn't in the slides or exercises let me know, and I'll update the supporting documentation.
+
+I started the class going through some general feedback for the presentations. The quality of the presentations was excellent, but there were a few common things to watch (especially for the proposal presentations). Ensure the right amount of text on your slides, you want enough to orient the audience, so they know the key points you are talking to but not too much so that you are just reading the slides. Finally, make sure you structure your presentation to the time limit. 
+
+We discussed the proposals for the major creative work next. The proposals are due in week 7 so read the class handbook for what is required (for the proposal and the supporting documentation). The prototype should show how your piece will perform as a work of electronic literature but does not need to be a digital work. Your prototype can be a pen-and-paper prototype. However, you may find that if your final work will be produced with Twine then you will be able to quickly produce a prototype with Twine.
+
+I then showed how to [change the styles in a Twine story](exercises/week6.md#change-the-story-styles). If you intend to use Twine make sure you complete the exercise. We also went through [how to add a linked image in Twine](exercises/week6.md#adding-a-linked-image).
+
+This week I discussed parser-based interactive fiction and the differences between parser and choice-based works. Following that we looked at the [Tiny Tools Directory](https://tinytools.directory/) for possible alternative tools in which to make your work and I went through two more exercises: [creating a story in Inform 7 (software for creating parser-based works)](exercises/week6.md#create-an-inform-7-story) and [creating a game in Bitsy](exercises/week6.md#create-a-bitsy-game).
+
 ### Week 6 Resources
 
 - [Week 6 slides](https://slides.com/benjaminlaird/digital-writing-week-6-2022)
@@ -173,3 +205,7 @@ Make sure to submit your slides from your presentation to Canvas.
 ## Before Week 7
 
 You should be working on your proposals for your major creative work which is due in class in week 7. Make sure to have emailed me your slides before the 11:30 class. Both classes will be taken up with the presentations.
+
+## Week 7
+
+Proposals are due in class today. After the class make sure to submit your slides and any supporting documentation to Canvas.
