@@ -163,6 +163,8 @@ We looked at literary print precursors to digital hypertext fiction, the technic
 
 For the rest class we worked on [writing a short hypertext narrative with Twine](exercises/week5.md#create-and-publish-a-twine-story), and we used GitHub and Netlify to publish the story so that it was publicly available.
 
+A Discord server has been set up for class discussions/questions and a joining link has been emailed to everyone. If the link expires before you manage to join let me know, and I'll send you another.
+
 ### Week 5 Resources
 
 - [Week 5 slides](https://slides.com/benjaminlaird/digital-writing-week-5-2022)
