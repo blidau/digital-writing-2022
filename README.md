@@ -151,7 +151,7 @@ Make sure to submit your slides from your presentation to Canvas.
 
 The class recording is on Collaborate Ultra, but there might be some issues with the screen sharing so if there is anything missed in the video which isn't in the slides or exercises let me know, and I'll update the supporting documentation.
 
-We started the class by going over HTML, CSS and JavaScript. Each broadly can be thought of as addressing different aspects of how a webpage comes together:
+We started the class by going over HTML, CSS and JavaScript. Each can be broadly thought of as addressing different aspects of how a webpage comes together:
 
 - Structural: HTML
 - Presentational: CSS
@@ -159,7 +159,7 @@ We started the class by going over HTML, CSS and JavaScript. Each broadly can be
 
 We then moved on to [making a simple website](exercises/week5.md#create-a-simple-website). We skipped over [turning the folio into a GitHub pages site](exercises/week5.md#folio-as-a-github-pages-website), but feel free to do this if you want.
 
-We looked at literary print precursors to digital hypertext fiction, the technical precursors to hypertext fiction, and hypertext fiction itself. Following on we discussed the differences between digital hypertext fiction and fiction and between digital hypertext fiction and games. And we also talked about how we plan print fiction and how we might plan (or not plan) hypertext fiction.
+We looked at literary print precursors to digital hypertext fiction, the technical precursors to hypertext fiction, and hypertext fiction itself. Following on we discussed the differences between digital hypertext fiction and fiction, and between digital hypertext fiction and games. And we also talked about how we plan print fiction and how we might plan (or not plan) hypertext fiction.
 
 For the rest class we worked on [writing a short hypertext narrative with Twine](exercises/week5.md#create-and-publish-a-twine-story), and we used GitHub and Netlify to publish the story so that it was publicly available.
 
@@ -209,3 +209,5 @@ You should be working on your proposals for your major creative work which is du
 ## Week 7
 
 Proposals are due in class today. After the class make sure to submit your slides and any supporting documentation to Canvas.
+
+Also, send me or post on Discord any technical questions / problems, and we will create a list in class.
