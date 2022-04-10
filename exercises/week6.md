@@ -33,11 +33,22 @@ tw-link:focus, tw-link:hover, tw-link:active {
 }
 ```
 
+### Adding a Linked Image
+
+1. [Add an image to the passage as shown in the week 5 exercise](week5.md#add-an-image-to-a-passage)
+   ```html
+   <img class="story-image" src="./images/example.jpg" alt="an example" />
+   ```
+2. Treat the image HTML the same as link text in a Harlowe link. So if the passage you are linking to is called "Another room", in your passage you would have:
+   ```html
+   [[<img class="story-image" src="./images/example.jpg" alt="an example" />->Another room]]
+   ```
+
 ## Inform 7
 
 1. Go to the [Inform 7 website](http://inform7.com/) and download a copy of Inform.
 
-### Create a Inform 7 Story
+### Create an Inform 7 Story
 
 1. Create a repository with on [GitHub](https://github.com/) with a `README.md` file
 2. Add a new file to the repostitory called `.gitignore` and add the following contents:
