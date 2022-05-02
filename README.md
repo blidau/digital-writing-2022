@@ -213,3 +213,10 @@ You should be working on your proposals for your major creative work which is du
 Proposals are due in class today. After the class make sure to submit your slides and any supporting documentation to Canvas.
 
 Also, send me or post on Discord any technical questions / problems, and we will create a list in class.
+
+## Week 9
+
+### Week 9 Resources
+
+- [Week 9 slides](https://slides.com/benjaminlaird/digital-writing-week-9-2022)
+- [Week 9 exercises](exercises/week9.md)
