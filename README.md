@@ -216,6 +216,20 @@ Also, send me or post on Discord any technical questions / problems, and we will
 
 ## Week 9
 
+The class recording for the first class is on Collaborate Ultra. It looks like it captured everything but if there is an issue with the recording, let me know and I'll update the class repository with anything that was missed.
+
+This week we covered the differences between games and digital literature (and how they overlap). We discussed how a game is read—and for what qualities—versus how a piece of literature is read.
+
+We also looked at and discussed web and game accessibility. There are links to accessibility resources in the slides.
+
+I went through a couple of audio exercises: [adding simple audio in Twine](exercises/week9.md#add-audio-to-a-twine-story) and [a remix using `howler.js`, a JavaScript audio library](exercises/week9.md#audio-example-with-howlerjs).
+
+I proposed that we dedicate week 11 to workshopping, and I will set up some timeslots of 10 minutes each for me to give you feedback on your projects in that week.
+
+At the start of the second class, I spoke briefly about what is required for the digital writing folios. These requirements are in the course handbook, but the exact format of submission still needs to be finalised.
+
+In week 10, I will be addressing images (background images, image layouts and image animations), and for the rest of the class you will have time to work on your projects.
+
 ### Week 9 Resources
 
 - [Week 9 slides](https://slides.com/benjaminlaird/digital-writing-week-9-2022)
