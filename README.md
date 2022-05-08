@@ -234,3 +234,10 @@ In week 10, I will be addressing images (background images, image layouts and im
 
 - [Week 9 slides](https://slides.com/benjaminlaird/digital-writing-week-9-2022)
 - [Week 9 exercises](exercises/week9.md)
+
+## Week 10
+
+### Week 10 Resources
+
+- [Week 10 slides](https://slides.com/benjaminlaird/digital-writing-week-10-2022)
+- [Week 10 exercises](exercises/week10.md)
