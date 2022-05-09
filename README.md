@@ -241,9 +241,15 @@ In the first class I ran through the week 10 exercises which addressed images in
 
 Next week, you'll have an opportunity to workshop your pieces in class. I've set up timeslots of 10 minutes each where you can get feedback from me on your work-in-progress.
 
-The major creative work is due at the end of week 12 rather than before the week 12 class. In the week 12 class we will spend time finishing off the projects and [creating a coversheet for submission](coversheet-for-developed-creative-work.md). We will also discuss what is required for the digital folio. Finally, we will look at places to get your work published and other publishing options.
+The major creative work is due at the end of week 12 rather than before the week 12 class. In the week 12 class we will spend time finishing off the projects and [creating a coversheet for submission](coversheet-for-developed-creative-work.md). We will also discuss what is required for the digital folio submission, which is due at end of week 13. Finally, we will discuss places to get your work published and other publishing options.
 
 ### Week 10 Resources
 
 - [Week 10 slides](https://slides.com/benjaminlaird/digital-writing-week-10-2022)
 - [Week 10 exercises](exercises/week10.md)
+
+## Week 11
+
+### Week 11 Resources
+
+- [Week 11 slides](https://slides.com/benjaminlaird/digital-writing-week-11-2022/)
