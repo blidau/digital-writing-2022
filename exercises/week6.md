@@ -23,11 +23,11 @@ tw-story {
   width: 100%;
 }
 
-tw-link, tw-link:link, tw-link:visited {
+tw-link, tw-link:link, tw-link:visited, tw-link.visited {
   color: #FFF;
   text-decoration: underline;
 }
-tw-link:focus, tw-link:hover, tw-link:active {
+tw-link:focus, tw-link:hover, tw-link:active, tw-link.visited:hover {
   color: #FFF;
   text-decoration: none;
 }
