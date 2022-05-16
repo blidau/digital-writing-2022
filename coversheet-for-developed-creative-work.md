@@ -2,7 +2,7 @@
 
 - Title of the work
 - Your name
-- Description of the work
+- Description of the work (~50 words)
 - Intended audience
 - Developed work Netlify link(s)
 - Developed work GitHub links(s)
