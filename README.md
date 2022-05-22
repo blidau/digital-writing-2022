@@ -255,3 +255,10 @@ There is no recording for this week's class. I briefly covered the requirements 
 ### Week 11 Resources
 
 - [Week 11 slides](https://slides.com/benjaminlaird/digital-writing-week-11-2022/)
+
+## Week 12
+
+### Week 12 Resources
+
+- [Week 12 slides](https://slides.com/benjaminlaird/digital-writing-week-12-2022/)
+- [Journals, zines and publications](journals.md)
