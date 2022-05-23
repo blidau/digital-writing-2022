@@ -258,6 +258,10 @@ There is no recording for this week's class. I briefly covered the requirements 
 
 ## Week 12
 
+The recording for the start of this week's first class is on Collaborate Ultra. I went through the list of expectations from week 1 to see if they were addressed in class. For the folio, [I went over what is required for submission](folio-requirements.md)—read the requirements and make sure they are addressed. I covered what is expected in an artist CV or equivalent website and briefly showed some alternatives to writing your own HTML page. We also discussed the different options for finding an audience for your major project, including online literary journals, digital literature journals and self-publishing.
+
+I have revised the due dates so that you can hand in your major project a week later, as it took a bit longer to release the feedback and grades from the proposal. This means that both the major developed work and writing folio are due on 3 June.
+
 ### Week 12 Resources
 
 - [Week 12 slides](https://slides.com/benjaminlaird/digital-writing-week-12-2022/)
