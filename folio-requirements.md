@@ -9,7 +9,7 @@ The folio demonstrates your experimentation and engagement with the form during 
 
 Ensure that you read the [digital writing folio assessment description in the course handbook](https://rmit.instructure.com/courses/95328/pages/class-handbook-digital-writing).
 
-Try and capture as much as you can in your folio. If you had a few iterations of your final project or experimented with techniques you did not use in your final piece; the folio is the place to record this with reflections and/or links to the experiments.
+Try to capture as much as you can in your folio. If you had a few iterations of your final project or experimented with techniques you did not use in your final piece; the folio is the place to record this with reflections and/or links to the experiments.
 
 For the submission to Canvas, the document should include:
 
